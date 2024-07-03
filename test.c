@@ -3,6 +3,6 @@
 int main(){
 	printf("test\n");
 	printf("CINAMOROLL\n");
-	printf("\n\n");
+	printf("\nTINO!\n");
 	return 0;
 }
